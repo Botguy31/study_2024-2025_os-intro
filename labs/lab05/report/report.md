@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе 4"
 subtitle: "Продвинутое использование git"
-author: "Алексеев Илья"
+author: "Алекcеев Илья"
 
 ## Generic otions
 lang: ru-RU
